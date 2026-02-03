@@ -40,3 +40,12 @@ age: এটা হলো ভেরিয়েবলের নাম (Variable N
 20: এটা হলো ভ্যালু বা ডেটা।
 
 ছোট একটা টিপস: -->
+
+
+var isrich = true; /* সে কি আসলে বড় লোক true মানে সত্য তাহলে সে বড় লোক true হলো একটা কিওয়ার্ড*/
+console.log(isrich);
+
+var passed = false; /* এটাও একটা কিওয়ার্ড*/
+
+console.log(passed);
+console.log(typeof passed); /* typeof লিখে রান করলে বলে দিবে এটা কি দরণের ভেরিয়েবল */
