@@ -5,5 +5,5 @@ friends.shift();
 console.log(friends);
 
 friends.unshift('ghumailam')
-console.log()
+console.log(friends)
 
